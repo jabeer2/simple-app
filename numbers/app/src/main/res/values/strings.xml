@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">numbers</string>
+    <string name="this_is_just_a_simple_app_to_test_the_num_ber_shape_depneding_on_your_input_of_number">This is just a simple app to test the num ber shape depneding on your input of number</string>
+    <string name="enter_a_number">Enter A Number</string>
+    <string name="check">Check</string>
+    <string name="number_shape_check">Number Shape Check</string>
+</resources>
